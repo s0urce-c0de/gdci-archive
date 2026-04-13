@@ -1,3 +1,8 @@
+[submodule "logos/2020/kitsune/rc6"]
+	path = logos/2020/kitsune/rc6
+	url = ./
+	branch = rc6
+
 [submodule "logos/2020/kitsune/rc7"]
 	path = logos/2020/kitsune/rc7
 	url = ./
